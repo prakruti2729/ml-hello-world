@@ -1,6 +1,6 @@
 import platform
 import os
-import psutil
+import psutils
 
 print("Hello, ML World from Jenkins!")
 print(f"Python Version: {platform.python_version()}")
